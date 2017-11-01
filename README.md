@@ -1,6 +1,6 @@
-# mbyd-fe-h5
+# 基于vue2 + vue-router + vuex + webpack + vant 快速构建项目脚手架
 
-> mbyd webapp
+> spa webapp
 
 ## 脚手架指令
 
